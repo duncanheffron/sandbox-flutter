@@ -1,6 +1,6 @@
-# Personal FLutter sandbox
+# Flutter sandbox
 
-A new Flutter project.
+A flutter project to discorver how this all works. And keep an history of the little things i've made by example.
 
 ## Getting Started
 
